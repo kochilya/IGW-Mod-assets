@@ -1,0 +1,1 @@
+Dirt will drop as an item when broken with any tool or by hand, but a shovel is the fastest way to break it.

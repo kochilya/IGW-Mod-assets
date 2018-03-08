@@ -1,0 +1,1 @@
+Podzol can be broken using any tool or by hand, but the shovel is the quickest. It can be obtained using a tool with Silk Touch, otherwise it will drop dirt instead.
