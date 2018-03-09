@@ -1,0 +1,1 @@
+[furnace{200,50,key=block/stone}]
