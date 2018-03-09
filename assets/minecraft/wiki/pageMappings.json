@@ -1,0 +1,5 @@
+{
+    "minecraft:item/ingotIron" : ["minecraft:item/ingotGold", "minecraft:item/blockIron"],
+    "minecraft:block/glowstone" : ["minecraft:item/glowstoneDust"],
+    "minecraft:block/whool" : ["minecraft:item/glowstoneDust"]
+ }
